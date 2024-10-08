@@ -1,0 +1,56 @@
+GENERATING CODE SOLUTION
+CHECKING CODE
+CODE BLOCK CHECK: FAILED
+RETRY SOLUTION
+GENERATING CODE SOLUTION
+CHECKING CODE
+CODE BLOCK CHECK: FAILED
+RETRY SOLUTION
+GENERATING CODE SOLUTION
+CHECKING CODE
+CODE BLOCK CHECK: FAILED
+RETRY SOLUTION
+GENERATING CODE SOLUTION
+CHECKING CODE
+[{
+    'literature': [
+        171088
+    ],
+    'molecularWeight': '14000',
+    'molecularWeightMaximum': '16000',
+    'commentary': 'sedimentation velocity, short-column sedimentation equilibrium, amino acid analysis',
+    'organism': 'Homo sapiens',
+    'ecNumber': '3.2.1.17'
+}, {
+    'literature': [
+        696869
+    ],
+    'molecularWeight': '14672',
+    'molecularWeightMaximum': None,
+    'commentary': 'x * 14672, calculated',
+    'organism': 'Homo sapiens',
+    'ecNumber': '3.2.1.17'
+}, {
+    'literature': [
+        171085
+    ],
+    'molecularWeight': '15000',
+    'molecularWeightMaximum': '17000',
+    'commentary': 'analytical ultracentrifugation',
+    'organism': 'Homo sapiens',
+    'ecNumber': '3.2.1.17'
+}, {
+    'literature': [
+        718120
+    ],
+    'molecularWeight': '21508',
+    'molecularWeightMaximum': None,
+    'commentary': 'x * 21508, sequence calculation',
+    'organism': 'Homo sapiens',
+    'ecNumber': '3.2.1.17'
+}]
+NO CODE TEST FAILURES
+SAVING RESULT
+FINISH
+INTERPRETING CODE SOLUTION
+The molecular weight of lysozyme in humans ranges from 14,000 to 17,000, with specific values reported as 14,672 and 21,508 based on different calculation methods.

@@ -1,0 +1,2391 @@
+GENERATING CODE SOLUTION
+CHECKING CODE
+CODE BLOCK CHECK: FAILED
+RETRY SOLUTION
+GENERATING CODE SOLUTION
+CHECKING CODE
+[{
+    'sourceTissue': '293 cell',
+    'literature': [
+        655696
+    ],
+    'textmining': '0',
+    'commentary': 'epithelial cell',
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'A-549 cell',
+    'literature': [
+        660661
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'acute myeloid leukemia cell',
+    'literature': [
+        699926
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'acute promyelocytic leukemia cell',
+    'literature': [
+        699926
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'adductor',
+    'literature': [
+        686832
+    ],
+    'textmining': '0',
+    'commentary': 'constitutive expression for the first 3 h post injection of H2O2',
+    'organism': 'Haliotis discus discus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'adrenocortical carcinoma cell',
+    'literature': [
+        655696
+    ],
+    'textmining': '0',
+    'commentary': 'Y-1 cell, increased activity of catalase in tumor cells recombinantly overexpressing IGFBP-2 probably mediated through IGF-independent mechanisms',
+    'organism': 'Mus musculus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'aorta',
+    'literature': [
+        655134
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Mus musculus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'blood',
+    'literature': [
+        673930
+    ],
+    'textmining': '0',
+    'commentary': 'catalase activity increases with increasing blood lead level',
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'blood',
+    'literature': [
+        675779
+    ],
+    'textmining': '0',
+    'commentary': 'catalase level is statistically decreased in patients with acne vulgaris compared to healthy ones',
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'blood serum',
+    'literature': [
+        758318
+    ],
+    'textmining': '0',
+    'commentary': 'catalase activity is significantly higher in patients with renal cell carcinoma than in controls',
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'brain',
+    'literature': [
+        700588
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Cyprinus carpio',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'brain',
+    'literature': [
+        744948
+    ],
+    'textmining': '0',
+    'commentary': 'highest levels of transcripts in hepatopancreas, followed by a little lower expression in hemocytes and moderate expression in the tissues of brain, eyestalk, gill, intestine and muscle, with the lowest expression in the heart',
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'bulb',
+    'literature': [
+        699027
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Brassica oleracea',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'bulb',
+    'literature': [
+        684257
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Brassica oleracea var. gongylodes',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'Caco-2 cell',
+    'literature': [
+        655696
+    ],
+    'textmining': '0',
+    'commentary': 'adrenocortical tumor cell, increased activity of catalase in tumor cells recombinantly overexpressing IGFBP-2 probably mediated through IGF-independent mechanisms',
+    'organism': 'Mus musculus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'Caco-2 cell',
+    'literature': [
+        655696
+    ],
+    'textmining': '0',
+    'commentary': 'colon tumor cell, increased activity of catalase in tumor cells recombinantly overexpressing IGFBP-2 probably mediated through IGF-independent mechanisms',
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439792
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Escherichia coli',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439794
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Escherichia coli',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439802
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Escherichia coli',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Escherichia coli',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Saccharomyces cerevisiae',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439772
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Aspergillus nidulans',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439777
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Aspergillus nidulans',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439772
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Neurospora crassa',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439799
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Aspergillus niger',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Aspergillus niger',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pseudomonas aeruginosa',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439773
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Komagataella pastoris',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439789
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Halobacterium salinarum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Serratia marcescens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439790
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Rhodobacter capsulatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439792
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Rhodobacter capsulatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Brucella abortus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Proteus mirabilis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bacteroides fragilis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439792
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Micrococcus luteus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439807
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Micrococcus luteus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Micrococcus luteus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Helicobacter pylori',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439800
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Candida tropicalis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439792
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Rhodospirillum rubrum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Xanthomonas campestris',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439787
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pseudomonas syringae',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pseudomonas syringae',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439784
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Penicillium simplicissimum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439786
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Cytobacillus firmus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bordetella pertussis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439778
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Vibrio rumoiensis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439779
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Methanosarcina barkeri',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439801
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Zavarzinia compransoris',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Listeria seeligeri',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439774
+    ],
+    'textmining': '0',
+    'commentary': 'only present if growth medium is supplemented with hemin',
+    'organism': 'Methanobrevibacter arboriphilus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439780
+    ],
+    'textmining': '0',
+    'commentary': 'KatB inducible by H2O2',
+    'organism': 'Pseudomonas aeruginosa',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439782
+    ],
+    'textmining': '0',
+    'commentary': 'inducible by H2O2, heat-shock, ethanol and stationary-phase conditions',
+    'organism': 'Cereibacter sphaeroides',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439785
+    ],
+    'textmining': '0',
+    'commentary': 'inducible at low salt concentrations',
+    'organism': 'Halobacterium salinarum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        439791
+    ],
+    'textmining': '0',
+    'commentary': 'methanol grown',
+    'organism': 'Kloeckera sp.',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Penicillium simplicissimum CBS 170.90',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': 'methanol grown',
+    'organism': 'Kloeckera sp. 2201',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell culture',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Cytobacillus firmus OF4',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cell suspension culture',
+    'literature': [
+        678998
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pseudomonas putida',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'colonic cancer cell',
+    'literature': [
+        655696
+    ],
+    'textmining': '0',
+    'commentary': 'Caco-2 cell, increased activity of catalase in tumor cells recombinantly overexpressing IGFBP-2 probably mediated through IGF-independent mechanisms',
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'commercial preparation',
+    'literature': [
+        657432
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'commercial preparation',
+    'literature': [
+        723981
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Aspergillus niger',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'commercial preparation',
+    'literature': [
+        742018
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'commercial preparation',
+    'literature': [
+        742975
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'commercial preparation',
+    'literature': [
+        743043
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'commercial preparation',
+    'literature': [
+        725750
+    ],
+    'textmining': '0',
+    'commentary': 'from liver',
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'commercial preparation',
+    'literature': [
+        726417
+    ],
+    'textmining': '0',
+    'commentary': 'from liver',
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'conidium',
+    'literature': [
+        439772
+    ],
+    'textmining': '0',
+    'commentary': 'isoform Cat-1 mainly present',
+    'organism': 'Neurospora crassa',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'conidium',
+    'literature': [
+        439772
+    ],
+    'textmining': '0',
+    'commentary': 'isoform CatA',
+    'organism': 'Aspergillus nidulans',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'corpus striatum',
+    'literature': [
+        673928
+    ],
+    'textmining': '0',
+    'commentary': 'the catalase activity in striatum is significantly decreased in the lesioned group as compared to sham group and pretreatment with Withania somnifera reverses its activity significantly and dose dependently in the lesioned goup pretretaed with 100 mg/kg 200 mg/ml or 300 mg/kg body weight extracts of Withania somnifera orally as compared to lesioned group',
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cotyledon',
+    'literature': [
+        689998
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Helianthus annuus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cotyledon',
+    'literature': [
+        439795
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Cucurbita sp.',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'culture condition:heme-grown cell',
+    'literature': [
+        655849
+    ],
+    'textmining': '0',
+    'commentary': 'heme in the growth medium is absolutely required for enzyme expression',
+    'organism': 'Enterococcus faecalis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'culture condition:methanol-grown cell',
+    'literature': [
+        655626
+    ],
+    'textmining': '0',
+    'commentary': '0.5% v/v methanol in the cell culture medium',
+    'organism': 'Mycobacterium sp.',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'culture condition:methanol-grown cell',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': '0.5% v/v methanol in the cell culture medium',
+    'organism': 'Mycobacterium sp. DSM 3803 / JC1',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'culture condition:methanol-grown cell',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': '0.5% v/v methanol in the cell culture medium',
+    'organism': 'Mycobacterium sp. JC1 DSM 3803',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'culture medium',
+    'literature': [
+        654240
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Talaromyces piceae',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'culture medium',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Talaromyces piceae F-648',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'cyst',
+    'literature': [
+        689085
+    ],
+    'textmining': '0',
+    'commentary': 'expression is highest 4?6 h after cyst germination',
+    'organism': 'Phytophthora nicotianae',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'digestive gland',
+    'literature': [
+        696576
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Margaritifera margaritifera',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'digestive gland',
+    'literature': [
+        686832
+    ],
+    'textmining': '0',
+    'commentary': 'constitutive expression for the first 3 h post injection of H2O2',
+    'organism': 'Haliotis discus discus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'embryo',
+    'literature': [
+        676644
+    ],
+    'textmining': '0',
+    'commentary': 'zygotic',
+    'organism': 'Pinus strobus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'epicotyl',
+    'literature': [
+        439798
+    ],
+    'textmining': '0',
+    'commentary': 'from seeds',
+    'organism': 'Zea mays',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'epithelial cell',
+    'literature': [
+        655696
+    ],
+    'textmining': '0',
+    'commentary': '293 cell',
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'erythrocyte',
+    'literature': [
+        698034
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Gallus gallus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'erythrocyte',
+    'literature': [
+        439796
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'erythrocyte',
+    'literature': [
+        439797
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'erythrocyte',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'erythrocyte',
+    'literature': [
+        710850
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'erythrocyte',
+    'literature': [
+        684795
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Ovis aries',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'erythrocyte',
+    'literature': [
+        439807
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Equus caballus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'erythrocyte',
+    'literature': [
+        677148
+    ],
+    'textmining': '0',
+    'commentary': 'activities of catalase activity shows similar behavior after the exhaustive exercise bout, with a maximum activity at 3 h after the exercise. Activity tends to fall at 4 h after the exercise in comparison with 3 h',
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'erythrocyte',
+    'literature': [
+        673930
+    ],
+    'textmining': '0',
+    'commentary': 'catalase activity increases with increasing blood lead level',
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'erythrocyte',
+    'literature': [
+        673975
+    ],
+    'textmining': '0',
+    'commentary': 'enzyme activity is significantly lower in patients with Parkinson?s disease compared to the control',
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'erythrocyte',
+    'literature': [
+        673111
+    ],
+    'textmining': '0',
+    'commentary': 'pentylenetetrazol-induced epileptic seizure is accompanied by significantly reduced catalase activity',
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'exocarp',
+    'literature': [
+        674113
+    ],
+    'textmining': '0',
+    'commentary': '56 genotypes',
+    'organism': 'Malus domestica',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'eyestalk',
+    'literature': [
+        744948
+    ],
+    'textmining': '0',
+    'commentary': 'highest levels of transcripts in hepatopancreas, followed by a little lower expression in hemocytes and moderate expression in the tissues of brain, eyestalk, gill, intestine and muscle, with the lowest expression in the heart',
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'fat body',
+    'literature': [
+        725844
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bombyx mori',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'fibroblast',
+    'literature': [
+        677210
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'flower',
+    'literature': [
+        439781
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pisum sativum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'frond',
+    'literature': [
+        700795
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pteris vittata',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'frond',
+    'literature': [
+        700795
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pteris ensiformis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'fruit',
+    'literature': [
+        439781
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pisum sativum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'gill',
+    'literature': [
+        700588
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Cyprinus carpio',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'gill',
+    'literature': [
+        696576
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Margaritifera margaritifera',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'gill',
+    'literature': [
+        725156
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Eriocheir sinensis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'gill',
+    'literature': [
+        725932
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'gill',
+    'literature': [
+        724791
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Penaeus vannamei',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'gill',
+    'literature': [
+        686832
+    ],
+    'textmining': '0',
+    'commentary': 'constitutive expression for the first 3 h post injection of H2O2',
+    'organism': 'Haliotis discus discus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'gill',
+    'literature': [
+        744948
+    ],
+    'textmining': '0',
+    'commentary': 'highest levels of transcripts in hepatopancreas, followed by a little lower expression in hemocytes and moderate expression in the tissues of brain, eyestalk, gill, intestine and muscle, with the lowest expression in the heart',
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'gonad',
+    'literature': [
+        725156
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Eriocheir sinensis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'gonad',
+    'literature': [
+        686832
+    ],
+    'textmining': '0',
+    'commentary': 'constitutive expression for the first 3 h post injection of H2O2',
+    'organism': 'Haliotis discus discus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'granulation tissue',
+    'literature': [
+        675749
+    ],
+    'textmining': '0',
+    'commentary': 'diabetic animals treated with BioGHK incorporated collagen (Peptide Incorporated Collagen) show significant higher levels of catalase due to the ability of GHK to attract macrophages and cytokines towards the wound environment',
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'H4-II-E cell',
+    'literature': [
+        700513
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'HBE cell',
+    'literature': [
+        699846
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'heart',
+    'literature': [
+        725156
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Eriocheir sinensis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'heart',
+    'literature': [
+        725932
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'heart',
+    'literature': [
+        672966
+    ],
+    'textmining': '0',
+    'commentary': 'activity increased significantly in the diazinon treated group compared with the control group',
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'heart',
+    'literature': [
+        744948
+    ],
+    'textmining': '0',
+    'commentary': 'highest levels of transcripts in hepatopancreas, followed by a little lower expression in hemocytes and moderate expression in the tissues of brain, eyestalk, gill, intestine and muscle, with the lowest expression in the heart',
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'hematocyte',
+    'literature': [
+        725932
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'hemocyte',
+    'literature': [
+        725156
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Eriocheir sinensis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'hemocyte',
+    'literature': [
+        686832
+    ],
+    'textmining': '0',
+    'commentary': 'constitutive expression for the first 3 h post injection of H2O2',
+    'organism': 'Haliotis discus discus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'hemocyte',
+    'literature': [
+        744948
+    ],
+    'textmining': '0',
+    'commentary': 'highest levels of transcripts in hepatopancreas, followed by a little lower expression in hemocytes and moderate expression in the tissues of brain, eyestalk, gill, intestine and muscle, with the lowest expression in the heart',
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'hemolymph',
+    'literature': [
+        700320
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Crassostrea gigas',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'Hep-G2 cell',
+    'literature': [
+        675325
+    ],
+    'textmining': '0',
+    'commentary': 'overexpression of hepatitis C virus non-structural proteins increases catalase activity',
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'hepatopancreas',
+    'literature': [
+        725932
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'hepatopancreas',
+    'literature': [
+        724791
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Penaeus vannamei',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'hepatopancreas',
+    'literature': [
+        725156
+    ],
+    'textmining': '0',
+    'commentary': 'high expression level',
+    'organism': 'Eriocheir sinensis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'hepatopancreas',
+    'literature': [
+        744948
+    ],
+    'textmining': '0',
+    'commentary': 'highest levels of transcripts in hepatopancreas, followed by a little lower expression in hemocytes and moderate expression in the tissues of brain, eyestalk, gill, intestine and muscle, with the lowest expression in the heart',
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'hippocampus',
+    'literature': [
+        676165
+    ],
+    'textmining': '0',
+    'commentary': 'catalase activity is decreased dramatically after forebrain ischemia insult, no significant difference in catalase activity between control group and sham-operated group and curcumin-treted group',
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'HL-60 cell',
+    'literature': [
+        699926
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'hypha',
+    'literature': [
+        689085
+    ],
+    'textmining': '0',
+    'commentary': 'highest expression',
+    'organism': 'Phytophthora nicotianae',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'intestine',
+    'literature': [
+        725932
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'intestine',
+    'literature': [
+        744948
+    ],
+    'textmining': '0',
+    'commentary': 'highest levels of transcripts in hepatopancreas, followed by a little lower expression in hemocytes and moderate expression in the tissues of brain, eyestalk, gill, intestine and muscle, with the lowest expression in the heart',
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'JURKAT cell',
+    'literature': [
+        697159
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'kernel',
+    'literature': [
+        439798
+    ],
+    'textmining': '0',
+    'commentary': 'spadix',
+    'organism': 'Zea mays',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'kidney',
+    'literature': [
+        439797
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'larva',
+    'literature': [
+        686217
+    ],
+    'textmining': '0',
+    'commentary': 'marked up-regulation of expression in larvae in which H2O2 is overloaded and after wounding through injection',
+    'organism': 'Protaetia brevitarsis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'larva',
+    'literature': [
+        725844
+    ],
+    'textmining': '0',
+    'commentary': 'fifth instar larval stage',
+    'organism': 'Bombyx mori',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'leaf',
+    'literature': [
+        689731
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Petroselinum crispum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'leaf',
+    'literature': [
+        439806
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Lens culinaris',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'leaf',
+    'literature': [
+        439775
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Beta vulgaris var. cicla',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'leaf',
+    'literature': [
+        700795
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pteris vittata',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'leaf',
+    'literature': [
+        700795
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pteris ensiformis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'leaf',
+    'literature': [
+        743769
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Ranunculus glacialis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'leaf',
+    'literature': [
+        439781
+    ],
+    'textmining': '0',
+    'commentary': 'highest activity',
+    'organism': 'Pisum sativum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'leaf',
+    'literature': [
+        689638
+    ],
+    'textmining': '0',
+    'commentary': 'activity continouosly increases from day 20 til day 70 after sowing',
+    'organism': 'Medicago sativa',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'leaf',
+    'literature': [
+        689638
+    ],
+    'textmining': '0',
+    'commentary': 'activity drastically diminishes from 7 to 17 days after sowing',
+    'organism': 'Phaseolus vulgaris',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'leaf',
+    'literature': [
+        689650
+    ],
+    'textmining': '0',
+    'commentary': 'stability of enzyme is increased in a light-dependent manner both in C3- and in crassulacean acid metabolism-induced plants, without changes in the level of leaf transcript',
+    'organism': 'Mesembryanthemum crystallinum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'leaf',
+    'literature': [
+        749377
+    ],
+    'textmining': '0',
+    'commentary': 'tissue extracts',
+    'organism': 'Jatropha curcas',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        684795
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Gallus gallus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        439797
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        439793
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        439807
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        439808
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        657432
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        685295
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        687061
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        699601
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        700795
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        712789
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        723827
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        725146
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        725750
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        726417
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        439776
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Canis lupus familiaris',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        700588
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Cyprinus carpio',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        439805
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Capra capra',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        724315
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        742018
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        742975
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        743043
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        747333
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        689863
+    ],
+    'textmining': '0',
+    'commentary': 'fetal liver',
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        674075
+    ],
+    'textmining': '0',
+    'commentary': 'activity is increased by 1.13fold at 4 h after exposure to 50 cGy whole body gamma-irradiation and remains elevated at almost the same level up to 12 h after exposure',
+    'organism': 'Mus musculus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        675739
+    ],
+    'textmining': '0',
+    'commentary': 'in azathioprine-treated rats a significant decrease in catalase activity is observed 24 h post-treatment. This inhibition is significantly released with pre-treatment with Hibiscus sabdariffa, Rosmarinus officinalisor Salvia officinalis',
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'liver',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': 'activity is increased by 1.13fold at 4 h after exposure to 50 cGy whole body gamma-irradiation and remains elevated at almost the same level up to 12 h after exposure',
+    'organism': 'Mus musculus BALB/c',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'lung',
+    'literature': [
+        439788
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Capra capra',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'lung',
+    'literature': [
+        674075
+    ],
+    'textmining': '0',
+    'commentary': 'activity remains unaltered after exposure to 50 cGy whole body gamma-irradiation',
+    'organism': 'Mus musculus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'lung',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': 'activity remains unaltered after exposure to 50 cGy whole body gamma-irradiation',
+    'organism': 'Mus musculus BALB/c',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mantle',
+    'literature': [
+        696576
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Margaritifera margaritifera',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mantle',
+    'literature': [
+        686832
+    ],
+    'textmining': '0',
+    'commentary': 'constitutive expression for the first 3 h post injection of H2O2',
+    'organism': 'Haliotis discus discus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'MEF cell',
+    'literature': [
+        698046
+    ],
+    'textmining': '0',
+    'commentary': 'telomerase-deficient MEF cells have lower catalase activity',
+    'organism': 'Mus musculus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mesenteric artery',
+    'literature': [
+        655134
+    ],
+    'textmining': '0',
+    'commentary': 'mouse small mesenteric artery',
+    'organism': 'Mus musculus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        657116
+    ],
+    'textmining': '0',
+    'commentary': 'catalase and bifunctional catalase-peroxidase are growth regulated and expressed mainly during the stationary phase, growth pattern analysis',
+    'organism': 'Frankia sp. R43',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        656410
+    ],
+    'textmining': '0',
+    'commentary': 'germination tests and seed moisture content determination',
+    'organism': 'Helianthus annuus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        655845
+    ],
+    'textmining': '0',
+    'commentary': 'high enzyme activity when the strain VA1 is grown under aerobic conditions, and decreased activity under anaerobic growth',
+    'organism': 'Pyrobaculum calidifontis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        686217
+    ],
+    'textmining': '0',
+    'commentary': 'present in all tissues examined',
+    'organism': 'Protaetia brevitarsis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        657421
+    ],
+    'textmining': '0',
+    'commentary': 'the protein and expression level are reduced during the mycelial saprobic phase compared to the yeast phase of infection',
+    'organism': 'Paracoccidioides brasiliensis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        689085
+    ],
+    'textmining': '0',
+    'commentary': 'expression in all developmental stages except for 3-h germinated cysts. Highest expression occurs in sporulating hyphae and the least in 3-h germinated cysts',
+    'organism': 'Phytophthora nicotianae',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        689085
+    ],
+    'textmining': '0',
+    'commentary': 'major catalase in all developmental stages, with the highest expression occurring in sporulating hyphae and the lowest in 3-h germinated cysts. In planta, activity increases dramatically about 8 h after host inocculation',
+    'organism': 'Phytophthora nicotianae',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        692793
+    ],
+    'textmining': '0',
+    'commentary': 'biofilm cultures',
+    'organism': 'Pseudomonas aeruginosa',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        725909
+    ],
+    'textmining': '0',
+    'commentary': 'catalase activity absolutely depends on exposure to O2 and occurs in cells grown in medium containing a heme source, these cells show higher viability on exposure to H2O2, growth optimum 37?C',
+    'organism': 'Bifidobacterium asteroides',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        725844
+    ],
+    'textmining': '0',
+    'commentary': 'changes in the level of catalase activity in the three tissues of fat body, midgut and haemolymph of the five selected bivoltine breeds and their 9 quantitative traits, namely larval weight, cocoon weight, shell weight, shell ratio, filament length, filament weight, denier, renditta and effective rearing rate, and correlation between them under high temperature conditions, overview',
+    'organism': 'Bombyx mori',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        725156
+    ],
+    'textmining': '0',
+    'commentary': 'constitutive epression, tissue expression analysis, overview',
+    'organism': 'Eriocheir sinensis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        724037
+    ],
+    'textmining': '0',
+    'commentary': 'the catalase activity is determined upon mild oxidative stress treatment and is significantly correlated with the robustness level of mild-stress-treated cells toward severe oxidative and heat stresses but not toward severe acid stress for cells grown at both refrigeration and optimal temperatures',
+    'organism': 'Bacillus mycoides',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        725932
+    ],
+    'textmining': '0',
+    'commentary': 'tissue quantitative real-time RT-PCR expression analysis, overview. Expression level of catalase transcripts both in haemocytes and hepatopancreas changes rapidly and dynamically after Vibrio alginolyticus challenging in the intermoult stage',
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': 'the protein and expression level are reduced during the mycelial saprobic phase compared to the yeast phase of infection',
+    'organism': 'Paracoccidioides brasiliensis Pb01 ATCC -MYA-826',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': 'the catalase activity is determined upon mild oxidative stress treatment and is significantly correlated with the robustness level of mild-stress-treated cells toward severe oxidative and heat stresses but not toward severe acid stress for cells grown at both refrigeration and optimal temperatures',
+    'organism': 'Bacillus mycoides KBAB4',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': 'catalase activity absolutely depends on exposure to O2 and occurs in cells grown in medium containing a heme source, these cells show higher viability on exposure to H2O2, growth optimum 37?C',
+    'organism': 'Bifidobacterium asteroides JCM 8230',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'more',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': 'high enzyme activity when the strain VA1 is grown under aerobic conditions, and decreased activity under anaerobic growth',
+    'organism': 'Pyrobaculum calidifontis VA1',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'muscle',
+    'literature': [
+        700588
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Cyprinus carpio',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'muscle',
+    'literature': [
+        725156
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Eriocheir sinensis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'muscle',
+    'literature': [
+        725932
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'muscle',
+    'literature': [
+        744948
+    ],
+    'textmining': '0',
+    'commentary': 'highest levels of transcripts in hepatopancreas, followed by a little lower expression in hemocytes and moderate expression in the tissues of brain, eyestalk, gill, intestine and muscle, with the lowest expression in the heart',
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        654036
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pseudogymnoascus pannorum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        657421
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Paracoccidioides brasiliensis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        654036
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Neonectria candida',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        698069
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Paracoccidioides brasiliensis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        439772
+    ],
+    'textmining': '0',
+    'commentary': 'isoform Cat-3 mainly present',
+    'organism': 'Neurospora crassa',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        439803
+    ],
+    'textmining': '0',
+    'commentary': 'inducible by nitrate containing growth medium',
+    'organism': 'Neurospora crassa',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        439804
+    ],
+    'textmining': '0',
+    'commentary': 'inducible by nitrate containing growth medium',
+    'organism': 'Neurospora crassa',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        654036
+    ],
+    'textmining': '0',
+    'commentary': 'activity in vivo',
+    'organism': 'Sclerotiniaceae sp.',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        654036
+    ],
+    'textmining': '0',
+    'commentary': 'activity in vivo with different growth temperatures and pH, intracellularly and extracellularly',
+    'organism': 'Penicillium cyclopium',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        654036
+    ],
+    'textmining': '0',
+    'commentary': 'activity in vivo, intracellularly',
+    'organism': 'Mortierella alpina',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        654036
+    ],
+    'textmining': '0',
+    'commentary': 'activity in vivo, intracellularly',
+    'organism': 'Cladosporium herbarum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        654036
+    ],
+    'textmining': '0',
+    'commentary': 'activity in vivo, intracellularly and extracellularly',
+    'organism': 'Penicillium chrysogenum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        654036
+    ],
+    'textmining': '0',
+    'commentary': 'activity in vivo, intracellularly and extracellularly',
+    'organism': 'Talaromyces islandicus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        654036
+    ],
+    'textmining': '0',
+    'commentary': 'activity in vivo, intracellularly and extracellularly',
+    'organism': 'Podila minutissima',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Paracoccidioides brasiliensis Pb01 ATCC -MYA-826',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'mycelium',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': 'activity in vivo with different growth temperatures and pH, intracellularly and extracellularly',
+    'organism': 'Penicillium cyclopium 1',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'NB-4 cell',
+    'literature': [
+        699926
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'OCI-AML2 cell',
+    'literature': [
+        699926
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'OCI-M2 cell',
+    'literature': [
+        699926
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'ovary',
+    'literature': [
+        725932
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'pericyte',
+    'literature': [
+        671384
+    ],
+    'textmining': '0',
+    'commentary': 'retinal. mRNA transcript for catalase in normal (5.5 mM) glucose medium or high (22 mM) glucose medium after 1, 3, or 5 days of stimulation. The pattern of relative expression of the pericyte catalase transcript at day 1 is essentially unchanged at 3 and 5 days with only a slightly higher value (10%) in high glucose medium, which is statistically significantly increased after 1 (p = 0.037), 3 (p = 0.037), and 5 (p = 0.025) days',
+    'organism': 'Bos taurus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'pod',
+    'literature': [
+        439781
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pisum sativum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'RAJI cell',
+    'literature': [
+        697159
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'root',
+    'literature': [
+        439781
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pisum sativum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'root',
+    'literature': [
+        711527
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Zea mays',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'root',
+    'literature': [
+        689998
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Helianthus annuus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'root',
+    'literature': [
+        695412
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Solanum lycopersicum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'root nodule',
+    'literature': [
+        681982
+    ],
+    'textmining': '0',
+    'commentary': 'N2 fixing root nodules, transcription of katA from OxyR-dependent promoter',
+    'organism': 'Sinorhizobium meliloti',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'root nodule',
+    'literature': [
+        689638
+    ],
+    'textmining': '0',
+    'commentary': 'activity is kept at a high and stable value',
+    'organism': 'Phaseolus vulgaris',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'root nodule',
+    'literature': [
+        689638
+    ],
+    'textmining': '0',
+    'commentary': 'activity is kept at a high and stable value',
+    'organism': 'Medicago sativa',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'scutellum',
+    'literature': [
+        439798
+    ],
+    'textmining': '0',
+    'commentary': 'from seeds',
+    'organism': 'Zea mays',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'seed',
+    'literature': [
+        439781
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pisum sativum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'seed',
+    'literature': [
+        656410
+    ],
+    'textmining': '0',
+    'commentary': 'developing, expression and activity increase in non hydrated seeds and during desiccation on the mother plant and after artificial drying on the flowerhead',
+    'organism': 'Helianthus annuus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'seedling',
+    'literature': [
+        689998
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Helianthus annuus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'seedling',
+    'literature': [
+        725606
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Vigna mungo',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'seedling',
+    'literature': [
+        695412
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Solanum lycopersicum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'Sertoli cell',
+    'literature': [
+        686055
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'Sertoli cell',
+    'literature': [
+        701310
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'shoot',
+    'literature': [
+        439781
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Pisum sativum',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'stomach',
+    'literature': [
+        725932
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Portunus trituberculatus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'striatum',
+    'literature': [
+        675518
+    ],
+    'textmining': '0',
+    'commentary': 'catalase activity is reduced significantly by lesioning, extract of Ginkgo biloba dose-dependently restores the activity',
+    'organism': 'Ginkgo biloba',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'T-47D cell',
+    'literature': [
+        699846
+    ],
+    'textmining': '0',
+    'commentary': 'clone T-47DN5',
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'THP-1 cell',
+    'literature': [
+        686756
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'thyroid gland',
+    'literature': [
+        673922
+    ],
+    'textmining': '0',
+    'commentary': 'no change in catalase activity after treatment with nicotinamide',
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'thyroid gland',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': 'no change in catalase activity after treatment with nicotinamide',
+    'organism': 'Rattus norvegicus Wistar',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'U-937 cell',
+    'literature': [
+        699926
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'yeast form',
+    'literature': [
+        657421
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Paracoccidioides brasiliensis',
+    'ecNumber': '1.11.1.6'
+}, {
+    'sourceTissue': 'yeast form',
+    'literature': [
+        0
+    ],
+    'textmining': '0',
+    'commentary': None,
+    'organism': 'Paracoccidioides brasiliensis Pb01 ATCC -MYA-826',
+    'ecNumber': '1.11.1.6'
+}]
+NO CODE TEST FAILURES
+SAVING RESULT
+FINISH
+INTERPRETING CODE SOLUTION
+Some sources of the enzyme catalase include:
+
+1. 293 cell (Homo sapiens)
+2. A-549 cell (Homo sapiens)
+3. Acute myeloid leukemia cell (Homo sapiens)
+4. Acute promyelocytic leukemia cell (Homo sapiens)
+5. Adductor (Haliotis discus discus)
+6. Adrenocortical carcinoma cell (Mus musculus)
+7. Aorta (Mus musculus)
+8. Blood (Homo sapiens)
+9. Blood serum (Homo sapiens)
+10. Brain (Cyprinus carpio)
+11. Bulb (Brassica oleracea)
+12. Caco-2 cell (Mus musculus and Homo sapiens)
+13. Cell culture (Various organisms including Escherichia coli, Saccharomyces cerevisiae, Aspergillus nidulans, Neurospora crassa, Aspergillus niger, Pseudomonas aeruginosa, Komagataella pastoris, Halobacterium salinarum, Serratia marcescens, Rhodobacter capsulatus, Brucella abortus, Proteus mirabilis, Bacteroides fragilis, Micrococcus luteus, Helicobacter pylori, Candida tropicalis, Rhodospirillum rubrum, Xanthomonas campestris, Pseudomonas syringae, Penicillium simplicissimum, Cytobacillus firmus, Bordetella pertussis, Vibrio rumoiensis, Methanosarcina barkeri, Zavarzinia compransoris, Listeria seeligeri, Methanobrevibacter arboriphilus)
+14. Colonic cancer cell (Homo sapiens)
+15. Commercial preparation (Bos taurus, Aspergillus niger)
+16. Conidium (Neurospora crassa, Aspergillus nidulans)
+17. Corpus striatum (Rattus norvegicus)
+18. Cotyledon (Helianthus annuus, Cucurbita sp.)
+19. Culture condition:heme-grown cell (Enterococcus faecalis)
+20. Culture condition:methanol-grown cell (Mycobacterium sp.)
+21. Culture medium (Talaromyces piceae)
+22. Cyst (Phytophthora nicotianae)
+23. Digestive gland (Margaritifera margaritifera, Haliotis discus discus)
+24. Embryo (Pinus strobus)
+25. Epicotyl (Zea mays)
+26. Epithelial cell (Homo sapiens)
+27. Erythrocyte (Various organisms including Homo sapiens, Gallus gallus, Ovis aries, Equus caballus, Rattus norvegicus)
+28. Exocarp (Malus domestica)
+29. Eyestalk (Portunus trituberculatus)
+30. Fat body (Bombyx mori)
+31. Fibroblast (Homo sapiens)
+32. Flower (Pisum sativum)
+33. Frond (Pteris vittata, Pteris ensiformis)
+34. Fruit (Pisum sativum)
+35. Gill (Various organisms including Cyprinus carpio, Margaritifera margaritifera, Eriocheir sinensis, Portunus trituberculatus, Penaeus vannamei, Haliotis discus discus)
+36. Gonad (Eriocheir sinensis, Haliotis discus discus)
+37. Granulation tissue (Rattus norvegicus)
+38. H4-II-E cell (Rattus norvegicus)
+39. HBE cell (Homo sapiens)
+40. Heart (Various organisms including Eriocheir sinensis, Portunus trituberculatus, Rattus norvegicus)
+41. Hematocyte (Portunus trituberculatus, Eriocheir sinensis, Haliotis discus discus)
+42. Hemolymph (Crassostrea gigas)
+43. Hep-G2 cell (Homo sapiens)
+44. Hepatopancreas (Portunus trituberculatus, Penaeus vannamei, Eriocheir sinensis)
+45. Hippocampus (Rattus norvegicus)
+46. HL-60 cell (Homo sapiens)
+47. Hypha (Phytophthora nicotianae)
+48. Intestine (Portunus trituberculatus)
+49. JURKAT cell (Homo sapiens)
+50. Kernel (Zea mays)
+51. Kidney (Homo sapiens)
+52. Larva (Protaetia brevitarsis, Bombyx mori)
+53. Leaf (Various organisms including Petroselinum crispum, Lens culinaris, Beta vulgaris var. cicla, Pteris vittata, Pteris ensiformis, Ranunculus glacialis, Pisum sativum, Medicago sativa, Phaseolus vulgaris, Mesembryanthemum crystallinum, Jatropha curcas)
+54. Liver (Various organisms including Gallus gallus, Homo sapiens, Bos taurus, Canis lupus familiaris, Cyprinus carpio, Capra capra, Mus musculus)
+55. Lung (Capra capra, Mus musculus)
+56. Mantle (Margaritifera margaritifera, Haliotis discus discus)
+57. MEF cell (Mus musculus)
+58. Mesenteric artery (Mus musculus)
+59. Muscle (Various organisms including Cyprinus carpio, Eriocheir sinensis, Portunus trituberculatus)
+60. Mycelium (Various organisms including Pseudogymnoascus pannorum, Paracoccidioides brasiliensis, Neonectria candida, Neurospora crassa, Sclerotiniaceae sp., Penicillium cyclopium, Mortierella alpina, Cladosporium herbarum, Penicillium chrysogenum, Talaromyces islandicus, Podila minutissima)
+61. NB-4 cell (Homo sapiens)
+62. OCI-AML2 cell (Homo sapiens)
+63. OCI-M2 cell (Homo sapiens)
+64. Ovary (Portunus trituberculatus)
+65. Pericyte (Bos taurus)
+66. Pod (Pisum sativum)
+67. RAJI cell (Homo sapiens)
+68. Root (Various organisms including Pisum sativum, Zea mays, Helianthus annuus, Solanum lycopersicum)
+69. Root nodule (Sinorhizobium meliloti, Phaseolus vulgaris, Medicago sativa)
+70. Scutellum (Zea mays)
+71. Seed (Pisum sativum, Helianthus annuus)
+72. Seedling (Helianthus annuus, Vigna mungo, Solanum lycopersicum)
+73. Sertoli cell (Rattus norvegicus)
+74. Shoot (Pisum sativum)
+75. Stomach (Portunus trituberculatus)
+76. Striatum (Ginkgo biloba)
+77. T-47D cell (Homo sapiens)
+78. THP-1 cell (Homo sapiens)
+79. Thyroid gland (Rattus norvegicus)
+80. U-937 cell (Homo sapiens)
+81. Yeast form (Paracoccidioides brasiliensis)
+
+This list includes a variety of human and animal cells, plant parts, and microorganisms as sources of catalase.

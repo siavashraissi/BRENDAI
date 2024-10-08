@@ -1,0 +1,233 @@
+GENERATING CODE SOLUTION
+CHECKING CODE
+[{
+    'literature': [
+        286663
+    ],
+    'inhibitor': 'ATP',
+    'commentary': None,
+    'organism': 'Solanum lycopersicum',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 7
+}, {
+    'literature': [
+        488052
+    ],
+    'inhibitor': 'ATP',
+    'commentary': 'no inhibition',
+    'organism': 'Nitrobacter winogradskyi',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 7
+}, {
+    'literature': [
+        488055
+    ],
+    'inhibitor': 'ATP',
+    'commentary': 'noncompetitive against acetyl-CoA',
+    'organism': 'Yarrowia lipolytica',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 7
+}, {
+    'literature': [
+        286663
+    ],
+    'inhibitor': 'NADH',
+    'commentary': 'no effect',
+    'organism': 'Solanum lycopersicum',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 3
+}, {
+    'literature': [
+        488052
+    ],
+    'inhibitor': 'NADH',
+    'commentary': 'no effect',
+    'organism': 'Nitrobacter winogradskyi',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 3
+}, {
+    'literature': [
+        488052
+    ],
+    'inhibitor': '2-oxoglutarate',
+    'commentary': 'no inhibition',
+    'organism': 'Nitrobacter winogradskyi',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 32
+}, {
+    'literature': [
+        488052
+    ],
+    'inhibitor': 'HgCl2',
+    'commentary': None,
+    'organism': 'Nitrobacter winogradskyi',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 104
+}, {
+    'literature': [
+        488052
+    ],
+    'inhibitor': 'SDS',
+    'commentary': 'strong inhibition',
+    'organism': 'Nitrobacter winogradskyi',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 118
+}, {
+    'literature': [
+        488055
+    ],
+    'inhibitor': 'citrate',
+    'commentary': None,
+    'organism': 'Yarrowia lipolytica',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 125
+}, {
+    'literature': [
+        488052
+    ],
+    'inhibitor': 'CuSO4',
+    'commentary': None,
+    'organism': 'Nitrobacter winogradskyi',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 228
+}, {
+    'literature': [
+        756131
+    ],
+    'inhibitor': 'propionate',
+    'commentary': 'competitive inhibition versus oxaloacetate, mixed type inhibition versus acetyl-CoA; substrate acetyl-CoA, competitive; substrate oxaloacetate, competitive',
+    'organism': 'Homo sapiens',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 267
+}, {
+    'literature': [
+        702966
+    ],
+    'inhibitor': 'D-serine',
+    'commentary': None,
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 401
+}, {
+    'literature': [
+        756131
+    ],
+    'inhibitor': 'Maleate',
+    'commentary': 'substrate acetyl-CoA, mixed type inhibition; substrate oxaloacetate, mixed type inhibition',
+    'organism': 'Homo sapiens',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 474
+}, {
+    'literature': [
+        720443
+    ],
+    'inhibitor': 'Ouabain',
+    'commentary': 'activity was inhibited immediately after the administration of ouabain in the prefrontal cortex at the doses of 0.01 mM and 0.1 mM',
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 683
+}, {
+    'literature': [
+        756131
+    ],
+    'inhibitor': 'Maleic acid',
+    'commentary': 'mixed type inhibition versus acetyl-CoA and versus oxaloacetate',
+    'organism': 'Homo sapiens',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 474
+}, {
+    'literature': [
+        689831
+    ],
+    'inhibitor': 'amphetamine',
+    'commentary': 'valproate reverses and lithium prevents the enzyme inhibition',
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 3544
+}, {
+    'literature': [
+        756131
+    ],
+    'inhibitor': 'Dihydroxyfumarate',
+    'commentary': 'substrate acetyl-CoA, competitive; substrate oxaloacetate, competitive',
+    'organism': 'Homo sapiens',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 4843
+}, {
+    'literature': [
+        756131
+    ],
+    'inhibitor': 'DL-malate',
+    'commentary': 'substrate acetyl-CoA, mixed type inhibition; substrate oxaloacetate, mixed type inhibition',
+    'organism': 'Homo sapiens',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 246
+}, {
+    'literature': [
+        756131
+    ],
+    'inhibitor': 'DL-malic acid',
+    'commentary': 'mixed type inhibition versus acetyl-CoA and versus oxaloacetate',
+    'organism': 'Homo sapiens',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 246
+}, {
+    'literature': [
+        756131
+    ],
+    'inhibitor': 'dihydroxyfumaric acid',
+    'commentary': 'competitive inhibition versus acetyl-CoA and versus oxaloacetate',
+    'organism': 'Homo sapiens',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 4843
+}, {
+    'literature': [
+        756131
+    ],
+    'inhibitor': '3-phosphonopropionic acid',
+    'commentary': 'competitive inhibition versus acetyl-CoA and versus oxaloacetate',
+    'organism': 'Homo sapiens',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 14716
+}, {
+    'literature': [
+        756131
+    ],
+    'inhibitor': 'potassium hydroxycitrate',
+    'commentary': 'competitive inhibition versus acetyl-CoA and versus oxaloacetate; substrate acetyl-CoA, competitive; substrate oxaloacetate, competitive',
+    'organism': 'Homo sapiens',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 154783
+}, {
+    'literature': [
+        756131
+    ],
+    'inhibitor': '3,3-thiodipropionate',
+    'commentary': 'substrate acetyl-CoA, competitive; substrate oxaloacetate, competitive',
+    'organism': 'Homo sapiens',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 94311
+}, {
+    'literature': [
+        756131
+    ],
+    'inhibitor': '3-phosphopropionate',
+    'commentary': 'substrate acetyl-CoA, competitive; substrate oxaloacetate, competitive',
+    'organism': 'Homo sapiens',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 14716
+}, {
+    'literature': [
+        756131
+    ],
+    'inhibitor': '3,3-thiodipropionic acid',
+    'commentary': 'competitive inhibition versus acetyl-CoA and versus oxaloacetate',
+    'organism': 'Homo sapiens',
+    'ecNumber': '2.3.3.1',
+    'ligandStructureId': 94311
+}]
+NO CODE TEST FAILURES
+SAVING RESULT
+FINISH
+INTERPRETING CODE SOLUTION
+The inhibitors known for the enzyme citrate synthase (EC Number 2.3.3.1) include ATP, NADH, 2-oxoglutarate, HgCl2, SDS, citrate, CuSO4, propionate, D-serine, maleate, ouabain, maleic acid, amphetamine, dihydroxyfumarate, DL-malate, DL-malic acid, dihydroxyfumaric acid, 3-phosphonopropionic acid, potassium hydroxycitrate, 3,3-thiodipropionate, and 3-phosphopropionate.

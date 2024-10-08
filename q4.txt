@@ -1,0 +1,63 @@
+GENERATING CODE SOLUTION
+CHECKING CODE
+[{
+    'literature': [
+        749746
+    ],
+    'substrate': 'acetylthiocholine',
+    'turnoverNumberMaximum': None,
+    'commentary': 'recombinant enzyme, pH 8.0, 22?C',
+    'organism': 'Homo sapiens',
+    'turnoverNumber': '7.18',
+    'ecNumber': '3.1.1.7',
+    'ligandStructureId': 463
+}, {
+    'literature': [
+        749746
+    ],
+    'substrate': 'propionylthiocholine',
+    'turnoverNumberMaximum': None,
+    'commentary': 'recombinant enzyme, pH 8.0, 22?C',
+    'organism': 'Homo sapiens',
+    'turnoverNumber': '3.72',
+    'ecNumber': '3.1.1.7',
+    'ligandStructureId': 538
+}, {
+    'literature': [
+        750291
+    ],
+    'substrate': 'heroin',
+    'turnoverNumberMaximum': None,
+    'commentary': 'recombinant enzyme, pH 7.4, 37?C',
+    'organism': 'Homo sapiens',
+    'turnoverNumber': '35',
+    'ecNumber': '3.1.1.7',
+    'ligandStructureId': 13907
+}, {
+    'literature': [
+        649716
+    ],
+    'substrate': 'acetyl thiocholine',
+    'turnoverNumberMaximum': None,
+    'commentary': 'pH 8, 27?C, attachment of polyethylene glycol side chains to lysine residues does not alter the Kcat value',
+    'organism': 'Homo sapiens',
+    'turnoverNumber': '6500',
+    'ecNumber': '3.1.1.7',
+    'ligandStructureId': 463
+}, {
+    'literature': [
+        750291
+    ],
+    'substrate': '6-monoacetylmorphine',
+    'turnoverNumberMaximum': None,
+    'commentary': 'recombinant enzyme, pH 7.4, 37?C',
+    'organism': 'Homo sapiens',
+    'turnoverNumber': '118',
+    'ecNumber': '3.1.1.7',
+    'ligandStructureId': 21305
+}]
+NO CODE TEST FAILURES
+SAVING RESULT
+FINISH
+INTERPRETING CODE SOLUTION
+The turnover number (kcat) of acetylcholinesterase in humans for acetylthiocholine is 7.18 and for acetyl thiocholine is 6500.

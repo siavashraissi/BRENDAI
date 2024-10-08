@@ -1,0 +1,1008 @@
+GENERATING CODE SOLUTION
+CHECKING CODE
+CODE BLOCK CHECK: FAILED
+RETRY SOLUTION
+GENERATING CODE SOLUTION
+CHECKING CODE
+CODE BLOCK CHECK: FAILED
+RETRY SOLUTION
+GENERATING CODE SOLUTION
+CHECKING CODE
+CODE BLOCK CHECK: FAILED
+RETRY SOLUTION
+GENERATING CODE SOLUTION
+CHECKING CODE
+CODE BLOCK CHECK: FAILED
+RETRY SOLUTION
+GENERATING CODE SOLUTION
+CHECKING CODE
+[{
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438096
+    ],
+    'organism': 'Paracoccus denitrificans',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438096
+    ],
+    'organism': 'Escherichia coli',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438097
+    ],
+    'organism': 'Escherichia coli',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438097
+    ],
+    'organism': 'Saccharomyces cerevisiae',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438097
+    ],
+    'organism': 'Bos taurus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438122
+    ],
+    'organism': 'Bos taurus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438125
+    ],
+    'organism': 'Bos taurus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438096
+    ],
+    'organism': 'Geobacillus stearothermophilus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438097
+    ],
+    'organism': 'Geobacillus stearothermophilus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438126
+    ],
+    'organism': 'Geobacillus stearothermophilus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438096
+    ],
+    'organism': 'Photobacterium leiognathi',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438097
+    ],
+    'organism': 'Photobacterium leiognathi',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438096
+    ],
+    'organism': 'Halobacterium salinarum',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438096
+    ],
+    'organism': 'Thermoplasma acidophilum',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438096
+    ],
+    'organism': 'Mycolicibacterium phlei',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438096
+    ],
+    'organism': 'Caulobacter vibrioides',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438097
+    ],
+    'organism': 'Caulobacter vibrioides',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438096
+    ],
+    'organism': 'Methanobacterium bryantii',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438096
+    ],
+    'organism': 'Bacteroides thetaiotaomicron',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438096
+    ],
+    'organism': 'Ginkgo biloba',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        438096
+    ],
+    'organism': 'Gordonia bronchialis',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'three-dimensional structure',
+    'literature': [
+        438097
+    ],
+    'organism': 'Bos taurus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'Cu2+-binding',
+    'literature': [
+        438123
+    ],
+    'organism': 'Bos taurus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438128
+    ],
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438129
+    ],
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438134
+    ],
+    'organism': 'Saccharomyces cerevisiae',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438153
+    ],
+    'organism': 'Saccharomyces cerevisiae',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438182
+    ],
+    'organism': 'Aspergillus nidulans',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438166
+    ],
+    'organism': 'Cereibacter sphaeroides',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438182
+    ],
+    'organism': 'Aspergillus niger',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438145
+    ],
+    'organism': 'Spinacia oleracea',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438113
+    ],
+    'organism': 'Pisum sativum',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438184
+    ],
+    'organism': 'Pisum sativum',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438167
+    ],
+    'organism': 'Pseudomonas putida',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438142
+    ],
+    'organism': 'Xenopus laevis',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438157
+    ],
+    'organism': 'Solanum lycopersicum',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438116
+    ],
+    'organism': 'Acholeplasma laidlawii',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438166
+    ],
+    'organism': 'Arthrospira platensis',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438182
+    ],
+    'organism': 'Aspergillus flavus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438182
+    ],
+    'organism': 'Aspergillus terreus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438147
+    ],
+    'organism': 'Brassica rapa subsp. oleifera',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438177
+    ],
+    'organism': 'Pseudomonas carboxydohydrogena',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        438162
+    ],
+    'organism': 'Ginkgo biloba',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438096
+    ],
+    'organism': 'Synechococcus elongatus PCC 7942 = FACHB-805',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438188
+    ],
+    'organism': 'Sinorhizobium meliloti',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438096
+    ],
+    'organism': 'Mus musculus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438096
+    ],
+    'organism': 'Thermus thermophilus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438096
+    ],
+    'organism': 'Escherichia coli',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438096
+    ],
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438096
+    ],
+    'organism': 'Rattus norvegicus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438096
+    ],
+    'organism': 'Saccharomyces cerevisiae',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438190
+    ],
+    'organism': 'Saccharomyces cerevisiae',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438096
+    ],
+    'organism': 'Geobacillus stearothermophilus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438096
+    ],
+    'organism': 'Zea mays',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438096
+    ],
+    'organism': 'Photobacterium leiognathi',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438096
+    ],
+    'organism': 'Pseudomonas putida',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438096
+    ],
+    'organism': 'Halobacterium salinarum',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438141
+    ],
+    'organism': 'Halobacterium salinarum',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438187
+    ],
+    'organism': 'Megalodesulfovibrio gigas',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438173
+    ],
+    'organism': 'Photobacterium damselae subsp. piscicida',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438179
+    ],
+    'organism': 'Anas platyrhynchos domestica',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438171
+    ],
+    'organism': 'Candida albicans',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        438189
+    ],
+    'organism': 'Citrus limon',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'A metalloprotein. Enzymes from most eukaryotes contain both copper and zinc, those from mitochondria and most prokaryotes contain manganese or iron. ligand binding site and structure',
+    'literature': [
+        438186
+    ],
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'A metalloprotein. Enzymes from most eukaryotes contain both copper and zinc, those from mitochondria and most prokaryotes contain manganese or iron. ligand binding site and structure',
+    'literature': [
+        438190
+    ],
+    'organism': 'Saccharomyces cerevisiae',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'A metalloprotein. Enzymes from most eukaryotes contain both copper and zinc, those from mitochondria and most prokaryotes contain manganese or iron. ligand binding site and structure',
+    'literature': [
+        438189
+    ],
+    'organism': 'Citrus limon',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'active site, manganese-binding site and contact site between monomers',
+    'literature': [
+        438096
+    ],
+    'organism': 'Thermus thermophilus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'active site, manganese-binding site and contact site between monomers',
+    'literature': [
+        438096
+    ],
+    'organism': 'Escherichia coli',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'active site, manganese-binding site and contact site between monomers',
+    'literature': [
+        438096
+    ],
+    'organism': 'Geobacillus stearothermophilus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'active site is not conserved, differing from others of Mn-SOD and Fe-SOD',
+    'literature': [
+        438096
+    ],
+    'organism': 'Halobacterium salinarum',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'presence of a general acid and a general base in catalysis. Catalytic model requires histidine residues, metal-bound water molecules and two hydrated metal ions to operate in concert',
+    'literature': [
+        675243
+    ],
+    'organism': 'Bos taurus',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'the amino acid residues His46, His48, His63, His71, His80, and His120, and Asp83 in the active site are conserved as in other Cu/ZnSODs',
+    'literature': [
+        690078
+    ],
+    'organism': 'Aspergillus niger',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'electrostatic guidance of anionic substrate to the active site, detailed overview. Generation of a model for electrostatic-mediated diffusion, and efficient binding of superoxide for catalysis',
+    'literature': [
+        745653
+    ],
+    'organism': 'Homo sapiens',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Citrus limon CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'A metalloprotein. Enzymes from most eukaryotes contain both copper and zinc, those from mitochondria and most prokaryotes contain manganese or iron. ligand binding site and structure',
+    'literature': [
+        0
+    ],
+    'organism': 'Citrus limon CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Thermus thermophilus Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'active site, manganese-binding site and contact site between monomers',
+    'literature': [
+        0
+    ],
+    'organism': 'Thermus thermophilus Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Spinacia oleracea Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        0
+    ],
+    'organism': 'Bos taurus CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'three-dimensional structure',
+    'literature': [
+        0
+    ],
+    'organism': 'Bos taurus CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Pisum sativum Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Solanum lycopersicum Fe-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Arthrospira platensis Fe-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        0
+    ],
+    'organism': 'Photobacterium leiognathi CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Photobacterium leiognathi CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        0
+    ],
+    'organism': 'Caulobacter vibrioides CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        0
+    ],
+    'organism': 'Caulobacter vibrioides CB15',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Pseudomonas putida Fe-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Pseudomonas putida Fe-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Aspergillus niger CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Aspergillus nidulans CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Photobacterium damselae subsp. piscicida Fe-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Brassica rapa subsp. oleifera Fe-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        0
+    ],
+    'organism': 'Escherichia coli Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Escherichia coli Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'active site, manganese-binding site and contact site between monomers',
+    'literature': [
+        0
+    ],
+    'organism': 'Escherichia coli Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        0
+    ],
+    'organism': 'Escherichia coli Fe-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Escherichia coli Fe-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'active site, manganese-binding site and contact site between monomers',
+    'literature': [
+        0
+    ],
+    'organism': 'Escherichia coli Fe-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        0
+    ],
+    'organism': 'Paracoccus denitrificans CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Megalodesulfovibrio gigas Fe-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Homo sapiens CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'A metalloprotein. Enzymes from most eukaryotes contain both copper and zinc, those from mitochondria and most prokaryotes contain manganese or iron. ligand binding site and structure',
+    'literature': [
+        0
+    ],
+    'organism': 'Homo sapiens CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        0
+    ],
+    'organism': 'Saccharomyces cerevisiae CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Saccharomyces cerevisiae CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'the amino acid residues His46, His48, His63, His71, His80, and His120, and Asp83 in the active site are conserved as in other Cu/ZnSODs',
+    'literature': [
+        0
+    ],
+    'organism': 'Aspergillus niger 26',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Aspergillus flavus CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Pseudomonas carboxydohydrogena Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        0
+    ],
+    'organism': 'Geobacillus stearothermophilus Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Geobacillus stearothermophilus Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'active site, manganese-binding site and contact site between monomers',
+    'literature': [
+        0
+    ],
+    'organism': 'Geobacillus stearothermophilus Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Sinorhizobium meliloti Rm5000',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Acholeplasma laidlawii Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Anas platyrhynchos domestica CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        0
+    ],
+    'organism': 'Thermoplasma acidophilum Fe-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Cereibacter sphaeroides Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'mechanism',
+    'literature': [
+        0
+    ],
+    'organism': 'Saccharomyces cerevisiae Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Saccharomyces cerevisiae Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Saccharomyces cerevisiae Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'A metalloprotein. Enzymes from most eukaryotes contain both copper and zinc, those from mitochondria and most prokaryotes contain manganese or iron. ligand binding site and structure',
+    'literature': [
+        0
+    ],
+    'organism': 'Saccharomyces cerevisiae Mn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid sequence alignment and comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Halobacterium salinarum NRL',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': 'amino acid composition, comparison',
+    'literature': [
+        0
+    ],
+    'organism': 'Aspergillus terreus CuZn-SOD',
+    'ecNumber': '1.15.1.1'
+}, {
+    'reaction': '2 superoxide + 2 H+ = O2 + H2O2',
+    'commentary': None,
+    'literature': [
+        0
+    ],
+    'organism': None,
+    'ecNumber': '1.15.1.1'
+}]
+NO CODE TEST FAILURES
+SAVING RESULT
+FINISH
+INTERPRETING CODE SOLUTION
+The enzyme superoxide dismutase catalyzes the reaction: 2 superoxide + 2 H+ = O2 + H2O2.
